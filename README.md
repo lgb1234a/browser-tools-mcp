@@ -1,4 +1,5 @@
 # BrowserTools MCP
+[![smithery badge](https://smithery.ai/badge/@lgb1234a/browser-tools-mcp)](https://smithery.ai/server/@lgb1234a/browser-tools-mcp)
 
 > Make your AI tools 10x more aware and capable of interacting with your browser
 
@@ -204,6 +205,14 @@ All consumers of the BrowserTools MCP Server interface with the same NodeJS API 
 - Compatible with various MCP clients (Cursor, Cline, Zed, Claude Desktop, etc.)
 
 ## Installation
+
+### Installing via Smithery
+
+To install browser-tools-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@lgb1234a/browser-tools-mcp):
+
+```bash
+npx -y @smithery/cli install @lgb1234a/browser-tools-mcp --client claude
+```
 
 Installation steps can be found in our documentation:
 
